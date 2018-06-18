@@ -4,6 +4,7 @@
   "description": "A stater for docz project",
   "main": "src/index.js",
   "scripts": {
+    "precommit": "npm run lint && npm test",
     "lint": "./node_modules/.bin/eslint src/**/*.js --ext md .",
     "pretest": "./node_modules/.bin/eslint --fix --ignore-path .gitignore .",
     "test": "./node_modules/.bin/jest"
@@ -31,7 +32,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run lint && npm test"
+      "pre-commit": "npm run precommit"
     }
   },
   "jest": {
