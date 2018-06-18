@@ -8,7 +8,7 @@
     "precommit": "npm test",
     "lint": "./node_modules/.bin/eslint src/**/*.js --ext md .",
     "pretest": "./node_modules/.bin/eslint --fix --ignore-path .gitignore .",
-    "test": "./node_modules/.bin/jest --coverage test/**/*.test.js"
+    "test": "./node_modules/.bin/jest"
   },
   "keywords": [
     "documentation",

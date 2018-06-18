@@ -6,7 +6,7 @@ module.exports = {
     ],
     "overrides": [{
         "files": ["src/**/*.js"],
-        "excludedFiles": ["*.test.js", "test/**/*.test.js"],
+        "excludedFiles": ["**/?(*.)+(spec|test).js"],
     }],
     "rules": {
         "indent": ["error", 4],
