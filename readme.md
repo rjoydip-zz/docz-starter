@@ -5,8 +5,15 @@
 ## Install
 
 ```
-$ npm i docz-stater
+$ git clone https://github.com/rjoydip/docz-starter.git
+$ cd docz-starter
+$ npm i
+$ yarn install
 ```
+
+**Note:** Modify `package.json` and `readme.md` based on your project.
+
+Any doubt? Check [Docz](https://www.docz.site/) to see more about Docz!
 
 ## License
 
