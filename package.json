@@ -2,7 +2,7 @@
   "name": "docz-stater",
   "version": "1.0.0",
   "description": "A stater for docz project",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "prepush": "npm test",
     "precommit": "npm test",
