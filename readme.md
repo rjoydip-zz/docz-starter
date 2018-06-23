@@ -7,8 +7,14 @@
 ```
 $ git clone https://github.com/rjoydip/docz-starter.git
 $ cd docz-starter
-$ npm i
-$ yarn install
+$ npm i or yarn install
+$ npm run dev
+```
+
+# Build
+
+```
+$ npm run build
 ```
 
 **Note:** Modify `package.json` and `readme.md` based on your project.

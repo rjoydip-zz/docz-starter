@@ -7,13 +7,16 @@
     "precommit": "npm run lint && npm test",
     "lint": "./node_modules/.bin/eslint src/**/*.js --ext md .",
     "pretest": "./node_modules/.bin/eslint --fix --ignore-path .gitignore .",
-    "test": "./node_modules/.bin/jest"
+    "test": "./node_modules/.bin/jest",
+    "dev": "./node_modules/.bin/docz dev",
+    "build": "./node_modules/.bin/docz build"
   },
   "keywords": [
     "documentation",
     "docz-starter",
     "docz",
-    "starter"
+    "starter",
+    "docz-template"
   ],
   "author": "Joydip Roy (rjoydip) <joydipand@gmail.com>",
   "license": "MIT",
