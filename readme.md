@@ -1,4 +1,4 @@
-# docz-stater [![Build Status](https://travis-ci.org/rjoydip/docz-stater.svg?branch=master)](https://travis-ci.org/rjoydip/docz-stater)
+# docz-stater [![Build Status](https://travis-ci.org/rjoydip/docz-starter.svg?branch=master)](https://travis-ci.org/rjoydip/docz-starter)
 
 > A stater for docz project.
 
