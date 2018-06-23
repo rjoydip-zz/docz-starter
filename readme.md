@@ -23,4 +23,4 @@ Any doubt? Check [Docz](https://www.docz.site/) to see more about Docz!
 
 ## License
 
-MIT © [Joydip Roy (rjoydip) <joydipand@gmail.com>](https://github.com/rjoydip/docz-stater/blob/master/license.md)
+MIT © [Joydip Roy (rjoydip)](https://github.com/rjoydip/docz-stater/blob/master/license.md)

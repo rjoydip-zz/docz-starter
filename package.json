@@ -18,7 +18,8 @@
     "starter",
     "docz-template"
   ],
-  "author": "Joydip Roy (rjoydip) <joydipand@gmail.com>",
+  "author": "Joydip Roy (rjoydip)",
+  "email": "joydipand@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "docz": "^0.2.6",
